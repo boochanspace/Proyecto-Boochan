@@ -1,0 +1,12 @@
+/* Anula cualquier filtro de inversión en modo lectura claro */
+.theme-light .markdown-rendered img {
+    filter: none !important;
+    mix-blend-mode: normal !important;
+    opacity: 1 !important;
+}
+
+/* Si usas el modo 'screen' en el HTML de la nota, esto lo corrige en modo claro */
+.theme-light img[style*="mix-blend-mode: screen"] {
+    mix-blend-mode: multiply !important;
+    filter: contrast(1.1) !important;
+}

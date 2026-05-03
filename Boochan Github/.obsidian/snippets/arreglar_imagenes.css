@@ -1,0 +1,5 @@
+.markdown-rendered img {
+    filter: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}

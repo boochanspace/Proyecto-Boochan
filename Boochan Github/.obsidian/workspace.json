@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "0e05cc8391cf7664",
+    "type": "split",
+    "children": [
+      {
+        "id": "08899335b8ab8bc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85537bcc4f5faa67",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e8687fa4ce97a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed2c1a4d665100d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c259abeef24dcfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "14bb939475bb68dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "3be6bfa03c02d1b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f551f26a3ecd1074",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a292c5e2eeaf826",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1b03939fb13a4f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Proyecto Integrador/Fases/Fase 6 BATMAN (Hardening y Blindaje de Seguridad (SI)).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Fase 6 BATMAN (Hardening y Blindaje de Seguridad (SI))"
+            }
+          },
+          {
+            "id": "2b258635412688a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f6a89e57536af2a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "42db7fda1d9485fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e0f2e4f2266442f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2c259abeef24dcfd",
+  "lastOpenFiles": [
+    "Proyecto Integrador/Fases/Fase 10  DR STRANGE  (Gestor de Eventos del Servidor con Python (PROG)).md",
+    "Proyecto Integrador/Fases/Fase 9 DARK SOULS (Auditoría de Seguridad y Pentesting (SI)).md",
+    "Boochan Proyectos Github/Boochan 2/Pasted image 20260211113142.png",
+    "Proyecto Integrador/En que consiste proyecto Boochan.md",
+    "Proyecto Integrador/index.md",
+    "Proyecto Integrador/Indice.md",
+    "Sin título.canvas",
+    "Sin título.base",
+    "2026-05-03.md",
+    "04.05_Cuotas, ficheros y almacenamiento.md",
+    "CONFIGURACION VPN.md",
+    "04.04_DHCP.md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 1 PIKACHU (Aprovisionamiento, Particionado y Red Estática).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 2 LINK (Gestión Remota e Híbrida de Administración (SOR + SR)).md",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/batman.gif",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/articuno.webp",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/aplicacion.png",
+    "Boochan Proyectos Github/Boochan 3/Tunel Conexion con AD - Fase 1.md",
+    "Boochan Proyectos Github/Boochan 3/softether.jpeg",
+    "Boochan Proyectos Github/Boochan 2/Manual BoochanV2.md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 9 DARK SOULS (Auditoría de Seguridad y Pentesting (SI)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 7 PHOENIX (Auditoría de Seguridad y Pentesting (SI)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 6 BATMAN (Hardening y Blindaje de Seguridad (SI)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 5 DITTO (Identidad Digital y Automatización DDNS (SOR + SR)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 4 PORTAL Versión B (Infraestructura Cloudlare Tunnel (Zero Trust) (SR)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 4 PORTAL Versión A (Publicación WAN y Configuración Perimetral (SR)).md",
+    "Boochan Proyectos Github/Boochan 3/Tunel Windows SoftEther - Fase 2.md",
+    "Boochanv2/Manual BoochanV2.md",
+    "Boochan Proyectos Github/Boochan 3/Pasted image 20260211113142.png",
+    "Boochan Proyectos Github/Boochan 3/Manual BoochanV2.md",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/zorua.png",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/zapdos.png",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/yhorm.jpg",
+    "Boochan Proyectos Github/Boochan 1/Imagenes/steelix.png",
+    "Boochan Proyectos Github/Boochan 1/Imagenes",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 8 ONIX (Escalabilidad de Almacenamiento (SOR)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 3 MARIO (Servidores de Contenido y Transferencia Local (SR + SI)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases/Fase 10  DR STRANGE  (Gestor de Eventos del Servidor con Python (PROG)).md",
+    "Boochan Proyectos Github/Boochan 1/Fases",
+    "Boochan Proyectos Github/Boochan 3",
+    "Boochan Proyectos Github/Boochan 2",
+    "Boochan Proyectos Github/Boochan 1 - copia (2)",
+    "Boochan Proyectos Github/Boochan 1 - copia",
+    "Boochan Proyectos Github/Boochan 1",
+    "Boochan Proyectos Github/Boochan",
+    "Boochan Proyectos Github/Nueva carpeta",
+    "Boochanv2 definitivo/Boochanv2 definitivo/Boochanv2/Manual BoochanV2.md",
+    "Proyecto Integrador/Proyecto integrador.canvas",
+    "Proyecto Integrador2/Proyecto Integrador/Proyecto integrador.canvas",
+    "Mapa mental.canvas",
+    "Proyecto integrador 1.canvas",
+    "Sin título 1.canvas"
+  ]
+}
